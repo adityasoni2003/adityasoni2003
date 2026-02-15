@@ -18,24 +18,18 @@ Building scalable systems, real-world products, and backend-heavy architectures 
 
 ---
 
-### 🚀 Current Focus
 
-- 🧩 P2P File Sharing System (Multi-receiver architecture, Go signaling server, TURN server)
-- 📰 Scalable Blog + CMS with SSG & Smart Caching
-- ⚙️ Advanced Go concurrency patterns
-- 🧠 Database isolation levels & race condition handling
-
----
 
 ### 🛠 Tech Stack
 
 #### 🚀 Backend
+- Node.JS
 - Golang
 - REST APIs
 - WebSockets
 - PostgreSQL
 - Redis
-- Concurrency & Goroutines
+- Concurrency
 
 #### 🎨 Frontend
 - ReactJS
@@ -45,6 +39,7 @@ Building scalable systems, real-world products, and backend-heavy architectures 
 - TailwindCSS
 
 #### ⚙ Dev & Infra
+- AWS Cloud Services
 - Git & GitHub
 - Cloudflare (Caching Strategies)
 - API Design
