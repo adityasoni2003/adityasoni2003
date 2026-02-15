@@ -11,7 +11,7 @@ Building scalable systems, real-world products, and backend-heavy architectures 
 
 - 💼 2+ years experience as a Software Engineer (Startup Environment)
 - 🔥 Currently building scalable systems using **Node.JS**
-- ⚡ Strong in **React + TypeScript** frontend architecture
+- ⚡ Strong in **NextJS + TypeScript** frontend architecture
 - 🧠 Interested in **Distributed Systems, Concurrency & System Design**
 - 🔗 Exploring **Golang Backend Development**
 - 📈 Focused on long-term technical depth & product building
