@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Soni</h1>
-<h3 align="center">Software Engineer | Go Developer | React + TypeScript | System Design Enthusiast</h3>
+<h3 align="center">Software Engineer | TypeScript + Go + AWS Cloud | System Design Enthusiast | DSA Enjoyer</h3>
 
 <p align="center">
 Building scalable systems, real-world products, and backend-heavy architectures 🚀
@@ -27,14 +27,17 @@ Building scalable systems, real-world products, and backend-heavy architectures 
 - Golang
 - REST APIs
 - WebSockets
-- PostgreSQL
+- MongoDB
 - Redis
 - Concurrency
 
 #### 🎨 Frontend
 - ReactJS
+- NextJS
+- Astro
 - TypeScript
 - Vite
+- ANT D Components
 - SCSS (Modular Architecture)
 - TailwindCSS
 
