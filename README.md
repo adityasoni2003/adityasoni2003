@@ -10,10 +10,10 @@ Building scalable systems, real-world products, and backend-heavy architectures 
 ### 👨‍💻 About Me
 
 - 💼 2+ years experience as a Software Engineer (Startup Environment)
-- 🔥 Currently building scalable systems using **Golang**
+- 🔥 Currently building scalable systems using **Node.JS**
 - ⚡ Strong in **React + TypeScript** frontend architecture
 - 🧠 Interested in **Distributed Systems, Concurrency & System Design**
-- 🔗 Exploring **Blockchain Development**
+- 🔗 Exploring **Golang Backend Development**
 - 📈 Focused on long-term technical depth & product building
 
 ---
