@@ -53,7 +53,7 @@ Building scalable systems, real-world products, and backend-heavy architectures 
 ### 🌐 Portfolio
 
 👨‍💻 All of my projects:  
-👉 https://adityasoni2003.github.io/Portfolio/
+👉 https://adityasoni2003.github.io/
 
 ---
 
